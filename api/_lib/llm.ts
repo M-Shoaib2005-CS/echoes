@@ -28,6 +28,7 @@ const TIMEOUT_MS = 30_000;
 
 async function postJson(f: Fetch, url: string, headers: Record<string, string>, body: unknown, timeoutMs = TIMEOUT_MS): Promise<unknown> {
   const ctrl = new AbortController();
+  const started = Date.now();
   const timer = setTimeout(() => ctrl.abort(), timeoutMs);
   try {
     const res = await f(url, {
@@ -41,7 +42,9 @@ async function postJson(f: Fetch, url: string, headers: Record<string, string>, 
       console.warn(`[llm] provider answered HTTP ${res.status}: ${detail}`); // dev terminal / Vercel logs only
       throw new LlmError(`LLM HTTP ${res.status}: ${detail}`, res.status);
     }
-    return await res.json();
+    const json = await res.json();
+    console.log(`[llm] ${new URL(url).host} answered in ${Date.now() - started}ms`); // timing for Vercel logs
+    return json;
   } catch (e) {
     if (e instanceof LlmError) throw e;
     if ((e as { name?: string }).name === 'AbortError') {

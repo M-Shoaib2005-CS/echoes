@@ -160,7 +160,7 @@ export async function generatePlan(llm: LlmProvider | null, input: PlanInput): P
   const prompt = buildPlanPrompt(input);
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
-      const parsed = llmPlanSchema.parse(parseLlmJson(await llm.complete({ ...prompt, maxTokens: 4000 })));
+      const parsed = llmPlanSchema.parse(parseLlmJson(await llm.complete({ ...prompt, maxTokens: 4000, timeoutMs: 20_000 })));
       return { plan: groundPlan(parsed, input.items, input.outings).plan, source: 'llm' };
     } catch (e) {
       if (!(e instanceof LlmError || e instanceof PlanError || e instanceof z.ZodError)) throw e;

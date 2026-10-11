@@ -86,13 +86,16 @@ export async function fetchCandidates(req: SessionRequest, qloo: QlooSource): Pr
 }
 
 export async function runSession(req: SessionRequest, deps: Deps): Promise<SessionResponse> {
+  const t0 = Date.now();
   const c = await fetchCandidates(req, deps.qloo);
+  const t1 = Date.now();
   const key = requestKey({ n: req.nickname, d: req.bornDecade, ids: c.shown.map((i) => i.id), o: c.outings.map((o) => o.id) });
   const planned = await planCache.getOrCompute(
     key,
     () => generatePlan(deps.llm, { nickname: req.nickname, bornDecade: req.bornDecade, items: c.shown, outings: c.outings }),
     (r) => (r.source === 'template' ? MIN : undefined),
   );
+  console.log(`[session] qloo ${t1 - t0}ms, plan ${Date.now() - t1}ms (${planned.source}), source ${c.source.mode}`);
   return {
     items: c.shown,
     outings: c.outings,
