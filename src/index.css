@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #fbf6ee;
+  --paper: #fffaf2;
+  --ink: #2a2420;
+  --muted: #6b5f55;
+  --line: #e4d8c5;
+  --accent: #b4532a;
+  --accent-ink: #ffffff;
+  --teal: #2b6a64;
+  --teal-soft: #dcebe8;
+  --amber-soft: #f7e3d4;
+  color-scheme: light;
+}
+:root[data-theme='dark'] {
+  --bg: #17130f;
+  --paper: #211b16;
+  --ink: #f3ece2;
+  --muted: #bdb0a2;
+  --line: #3a3027;
+  --accent: #e8905f;
+  --accent-ink: #1a120d;
+  --teal: #86cbc2;
+  --teal-soft: #1f3431;
+  --amber-soft: #3a2a20;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #17130f;
+    --paper: #211b16;
+    --ink: #f3ece2;
+    --muted: #bdb0a2;
+    --line: #3a3027;
+    --accent: #e8905f;
+    --accent-ink: #1a120d;
+    --teal: #86cbc2;
+    --teal-soft: #1f3431;
+    --amber-soft: #3a2a20;
+    color-scheme: dark;
+  }
+}
+
+html { font-size: 18px; scroll-padding-top: 1rem; }
+body { background: var(--bg); color: var(--ink); font-family: 'Source Sans 3', system-ui, sans-serif; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+h1, h2, h3 { font-family: Fraunces, Georgia, serif; font-weight: 500; line-height: 1.2; letter-spacing: -0.01em; }
+:focus-visible { outline: 3px solid var(--teal); outline-offset: 2px; border-radius: 6px; }
+button, a, input, select { min-height: 44px; }
+a.inline-link { min-height: 0; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes shimmer { 0% { background-position: -200px 0; } 100% { background-position: calc(200px + 100%) 0; } }
+@keyframes fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.step-in { animation: rise 0.35s ease-out both; }
+.meter-fill { transform-origin: left; animation: fill 0.7s ease-out both; }
+.skeleton { background: linear-gradient(90deg, var(--line) 25%, var(--amber-soft) 50%, var(--line) 75%); background-size: 200px 100%; animation: shimmer 1.4s infinite linear; border-radius: 12px; }
+
+.above-nav { bottom: calc(62px + env(safe-area-inset-bottom, 0px)); }
+.print-only { display: none; }
+@media print {
+  @page { margin: 16mm; }
+  body { background: #fff !important; color: #000 !important; font-size: 15pt; }
+  .no-print { display: none !important; }
+  .print-only { display: block !important; }
+  .print-only h1, .print-only h2, .print-only h3 { color: #000; }
+  .print-only li { break-inside: avoid; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

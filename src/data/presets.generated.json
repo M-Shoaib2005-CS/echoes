@@ -1,0 +1,2065 @@
+[
+ {
+  "id": "nani-music",
+  "title": "Nani, who sang along to everything",
+  "blurb": "Ghazals and film songs from Lahore and Bombay, alongside crooners on the radio.",
+  "nickname": "Nani",
+  "city": "Lahore",
+  "bornDecade": 1940,
+  "seeds": [
+   {
+    "id": "D32E8668-E3B1-4919-BFA5-6870900EAC80",
+    "name": "Lata Mangeshkar",
+    "domain": "artist"
+   },
+   {
+    "id": "070CD61B-C03F-4B28-A72A-EB6EB14B90F4",
+    "name": "Noor Jahan",
+    "domain": "artist"
+   },
+   {
+    "id": "3233A07F-2448-4E67-B5D2-7141E0870A8D",
+    "name": "Mohammed Rafi",
+    "domain": "artist"
+   },
+   {
+    "id": "FC0F8D26-BA80-4D83-8BBF-FC011DC8D241",
+    "name": "Frank Sinatra",
+    "domain": "artist"
+   },
+   {
+    "id": "E0CD9B0B-75BB-4DAE-BCB7-79AB5DE42A0D",
+    "name": "Nat King Cole",
+    "domain": "artist"
+   }
+  ],
+  "response": {
+   "items": [
+    {
+     "id": "3F144530-744A-421D-A425-5AF95DD55F4F",
+     "name": "Peggy Lee",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Swing",
+      "Jazz",
+      "Blues",
+      "Vocal Jazz"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3F144530-744A-421D-A425-5AF95DD55F4F-420x-auto.jpg",
+     "reasons": [
+      "Nat King Cole",
+      "Frank Sinatra"
+     ]
+    },
+    {
+     "id": "CF104894-43FC-483E-9A4D-0E2D9A30520C",
+     "name": "Rosemary Clooney",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Easy Listening",
+      "Jazz",
+      "Traditional Pop",
+      "Oldies"
+     ],
+     "imageUrl": "https://images.qloo.com/i/CF104894-43FC-483E-9A4D-0E2D9A30520C-420x-auto.jpg",
+     "reasons": [
+      "Nat King Cole",
+      "Frank Sinatra"
+     ]
+    },
+    {
+     "id": "15D12B84-FEC9-4049-B783-BAC121CA4904",
+     "name": "Tony Bennett",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Adult Contemporary",
+      "Swing",
+      "Jazz",
+      "Oldies"
+     ],
+     "imageUrl": "https://images.qloo.com/i/15D12B84-FEC9-4049-B783-BAC121CA4904-420x-auto.jpg",
+     "reasons": [
+      "Nat King Cole",
+      "Frank Sinatra"
+     ]
+    },
+    {
+     "id": "C0A5886B-EDC4-4930-A175-5CB60C112025",
+     "name": "Doris Day",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Swing",
+      "Country",
+      "Easy Listening",
+      "Traditional Pop"
+     ],
+     "imageUrl": "https://images.qloo.com/i/C0A5886B-EDC4-4930-A175-5CB60C112025-420x-auto.jpg",
+     "reasons": [
+      "Nat King Cole",
+      "Frank Sinatra"
+     ]
+    },
+    {
+     "id": "78991296-9E4A-4559-996A-5C5B5DCB8374",
+     "name": "Louis Armstrong",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Pop",
+      "Traditional Jazz",
+      "Swing",
+      "Oldies"
+     ],
+     "imageUrl": "https://images.qloo.com/i/78991296-9E4A-4559-996A-5C5B5DCB8374-420x-auto.jpg",
+     "reasons": [
+      "Frank Sinatra",
+      "Nat King Cole"
+     ]
+    },
+    {
+     "id": "5F6ABA81-8099-4C6C-A794-578EBD7720FD",
+     "name": "Anand",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Medical drama",
+      "Musical",
+      "Drama",
+      "Buddy film"
+     ],
+     "year": 1971,
+     "imageUrl": "https://images.qloo.com/i/5F6ABA81-8099-4C6C-A794-578EBD7720FD-420x-auto.jpg",
+     "reasons": [
+      "Lata Mangeshkar",
+      "Mohammed Rafi"
+     ]
+    },
+    {
+     "id": "8591EA91-D24C-4D6F-92B0-25C302086B33",
+     "name": "Guide",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Romance",
+      "Musical",
+      "Romantic drama",
+      "Drama"
+     ],
+     "year": 1965,
+     "imageUrl": "https://images.qloo.com/i/8591EA91-D24C-4D6F-92B0-25C302086B33-420x-auto.jpg",
+     "reasons": [
+      "Lata Mangeshkar",
+      "Mohammed Rafi"
+     ]
+    },
+    {
+     "id": "4F0340AC-156B-4103-836D-BBF0A179A85A",
+     "name": "My Name Is Joker",
+     "domain": "movie",
+     "affinity": 0.84,
+     "tags": [
+      "Romantic drama",
+      "Musical",
+      "Coming of age",
+      "Epic"
+     ],
+     "year": 1970,
+     "imageUrl": "https://images.qloo.com/i/4F0340AC-156B-4103-836D-BBF0A179A85A-420x-auto.jpg",
+     "reasons": [
+      "Lata Mangeshkar",
+      "Mohammed Rafi"
+     ]
+    },
+    {
+     "id": "A4DE7988-EF8B-4A7C-8102-EB49B7F119E8",
+     "name": "Rajnigandha",
+     "domain": "movie",
+     "affinity": 0.84,
+     "tags": [
+      "Romance",
+      "Drama",
+      "Psychological drama",
+      "Romantic drama"
+     ],
+     "year": 1974,
+     "imageUrl": "https://images.qloo.com/i/A4DE7988-EF8B-4A7C-8102-EB49B7F119E8-420x-auto.jpg",
+     "reasons": [
+      "Lata Mangeshkar",
+      "Mohammed Rafi"
+     ]
+    },
+    {
+     "id": "463C3A12-BC1F-4DA2-9F2C-C3CB3C59599B",
+     "name": "Mili",
+     "domain": "movie",
+     "affinity": 0.84,
+     "tags": [
+      "Drama",
+      "Family",
+      "Family drama",
+      "Romance"
+     ],
+     "year": 1975,
+     "imageUrl": "https://images.qloo.com/i/463C3A12-BC1F-4DA2-9F2C-C3CB3C59599B-420x-auto.jpg",
+     "reasons": [
+      "Mohammed Rafi",
+      "Lata Mangeshkar"
+     ]
+    },
+    {
+     "id": "66969B47-66E0-42DD-8712-99EEA147F7F1",
+     "name": "Columbo",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Crime",
+      "Mystery",
+      "Character study",
+      "Drama"
+     ],
+     "year": 1971,
+     "imageUrl": "https://images.qloo.com/i/66969B47-66E0-42DD-8712-99EEA147F7F1-420x-auto.jpg",
+     "reasons": [
+      "Frank Sinatra",
+      "Nat King Cole"
+     ]
+    },
+    {
+     "id": "51A1CAAC-AC6E-4219-BE5E-35AD58D537B2",
+     "name": "The Rockford Files",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Thriller",
+      "1970s period",
+      "Detective procedural",
+      "Crime"
+     ],
+     "year": 1974,
+     "imageUrl": "https://images.qloo.com/i/51A1CAAC-AC6E-4219-BE5E-35AD58D537B2-420x-auto.jpg",
+     "reasons": [
+      "Frank Sinatra",
+      "Nat King Cole"
+     ]
+    },
+    {
+     "id": "433B5B8F-C04B-4557-81F1-BA1F5650FD0A",
+     "name": "The Prisoner",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Drama",
+      "Sci fi",
+      "Allegorical drama",
+      "Science fiction"
+     ],
+     "year": 1967,
+     "imageUrl": "https://images.qloo.com/i/433B5B8F-C04B-4557-81F1-BA1F5650FD0A-420x-auto.jpg",
+     "reasons": [
+      "Frank Sinatra",
+      "Nat King Cole"
+     ]
+    },
+    {
+     "id": "1D9C61EB-A3DD-474B-9238-7613E9261332",
+     "name": "Ellery Queen",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Crime",
+      "Whodunit",
+      "Mystery",
+      "Family"
+     ],
+     "year": 1975,
+     "imageUrl": "https://images.qloo.com/i/1D9C61EB-A3DD-474B-9238-7613E9261332-420x-auto.jpg",
+     "reasons": [
+      "Frank Sinatra",
+      "Nat King Cole"
+     ]
+    },
+    {
+     "id": "0A499E2A-7FF1-4789-882E-53738EC1F706",
+     "name": "Upstairs, Downstairs",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Drama",
+      "Historical",
+      "Household drama",
+      "Historical fiction"
+     ],
+     "year": 1971,
+     "imageUrl": "https://images.qloo.com/i/0A499E2A-7FF1-4789-882E-53738EC1F706-420x-auto.jpg",
+     "reasons": [
+      "Nat King Cole",
+      "Frank Sinatra"
+     ]
+    }
+   ],
+   "outings": [
+    {
+     "id": "1EE6AE21-6348-42D9-B0DE-E42B5D18C093",
+     "name": "Wagah Border",
+     "domain": "place",
+     "affinity": 0.85,
+     "tags": [
+      "Border crossing station"
+     ],
+     "imageUrl": "https://images.qloo.com/i/1EE6AE21-6348-42D9-B0DE-E42B5D18C093-420x-auto.jpg",
+     "reasons": [
+      "Mohammed Rafi",
+      "Lata Mangeshkar"
+     ]
+    },
+    {
+     "id": "4376C614-406A-4624-84BE-9E5097FBC397",
+     "name": "National Cricket Academy",
+     "domain": "place",
+     "affinity": 0.82,
+     "tags": [
+      "Tourist attraction",
+      "Place",
+      "Sports complex",
+      "Inspiring"
+     ],
+     "imageUrl": "https://images.qloo.com/i/4376C614-406A-4624-84BE-9E5097FBC397-420x-auto.jpg",
+     "reasons": [
+      "Mohammed Rafi",
+      "Lata Mangeshkar"
+     ]
+    }
+   ],
+   "plan": {
+    "title": "A Gentle Journey with Nani",
+    "warmup": {
+     "text": "Welcome, Nani. Let’s settle with a soft cup of tea and a calm breath, ready to share a favorite memory.",
+     "minutes": 4
+    },
+    "segments": [
+     {
+      "domain": "artist",
+      "title": "Music",
+      "intro": "Think of a song that makes you smile.",
+      "minutes": 8,
+      "items": [
+       {
+        "id": "3F144530-744A-421D-A425-5AF95DD55F4F",
+        "prompt": "Do you remember hearing Peggy Lee’s voice on the radio?",
+        "sensoryCue": "hum along gently"
+       },
+       {
+        "id": "CF104894-43FC-483E-9A4D-0E2D9A30520C",
+        "prompt": "Did anyone at home sing this one?",
+        "sensoryCue": "Tap along gently to the rhythm"
+       },
+       {
+        "id": "15D12B84-FEC9-4049-B783-BAC121CA4904",
+        "prompt": "What does this song make you think of?",
+        "sensoryCue": "Look at a photo of the singer together"
+       },
+       {
+        "id": "C0A5886B-EDC4-4930-A175-5CB60C112025",
+        "prompt": "Does this sound familiar? Where did you first hear it?",
+        "sensoryCue": "Hum along if it feels natural"
+       },
+       {
+        "id": "78991296-9E4A-4559-996A-5C5B5DCB8374",
+        "prompt": "Did anyone at home sing this one?",
+        "sensoryCue": "Tap along gently to the rhythm"
+       }
+      ]
+     },
+     {
+      "domain": "movie",
+      "title": "Film",
+      "intro": "Recall a story that touched your heart.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "8591EA91-D24C-4D6F-92B0-25C302086B33",
+        "prompt": "What feelings does the film “Guide” bring back for you?",
+        "sensoryCue": "look at a still photo from the movie"
+       },
+       {
+        "id": "5F6ABA81-8099-4C6C-A794-578EBD7720FD",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       },
+       {
+        "id": "4F0340AC-156B-4103-836D-BBF0A179A85A",
+        "prompt": "Where did you watch films like this?",
+        "sensoryCue": "Ask who they watched it with"
+       },
+       {
+        "id": "A4DE7988-EF8B-4A7C-8102-EB49B7F119E8",
+        "prompt": "Do you remember seeing this one? Who came along?",
+        "sensoryCue": "Look at the poster or a still together"
+       },
+       {
+        "id": "463C3A12-BC1F-4DA2-9F2C-C3CB3C59599B",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       }
+      ]
+     },
+     {
+      "domain": "tv_show",
+      "title": "Television",
+      "intro": "Let’s travel back to a favorite TV moment.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "66969B47-66E0-42DD-8712-99EEA147F7F1",
+        "prompt": "Do you enjoy the clever mysteries of “Columbo”?",
+        "sensoryCue": "listen to a short clip of Columbo’s theme"
+       },
+       {
+        "id": "51A1CAAC-AC6E-4219-BE5E-35AD58D537B2",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       },
+       {
+        "id": "433B5B8F-C04B-4557-81F1-BA1F5650FD0A",
+        "prompt": "What time of day did this come on?",
+        "sensoryCue": "Talk about where the TV sat in the room"
+       },
+       {
+        "id": "1D9C61EB-A3DD-474B-9238-7613E9261332",
+        "prompt": "Did you watch this one at home? Who sat beside you?",
+        "sensoryCue": "Look at a photo of the cast together"
+       },
+       {
+        "id": "0A499E2A-7FF1-4789-882E-53738EC1F706",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       }
+      ]
+     }
+    ],
+    "winddown": {
+     "text": "Thank you for sharing, Nani. Let’s breathe slowly together and keep these warm memories close.",
+     "minutes": 4
+    },
+    "outing": {
+     "id": "1EE6AE21-6348-42D9-B0DE-E42B5D18C093",
+     "prompt": "If you feel up to it, a gentle walk to see the Wagah Border could be lovely."
+    }
+   },
+   "planSource": "llm",
+   "source": {
+    "mode": "live"
+   },
+   "notices": [],
+   "yearFilter": {
+    "active": true,
+    "note": "Films and TV were limited to 1948–1975. Music is not filtered by year."
+   }
+  },
+  "compare": null,
+  "idSpace": "qloo",
+  "generatedAt": "2026-10-08T19:06:54.808Z"
+ },
+ {
+  "id": "grandpa-film",
+  "title": "Grandpa Joe, the film buff",
+  "blurb": "Golden-age Hollywood, Mughal epics and Kurosawa, with a little jazz.",
+  "nickname": "Grandpa Joe",
+  "city": "London",
+  "bornDecade": 1930,
+  "seeds": [
+   {
+    "id": "11FB3D67-EE2C-4681-9521-363B588B6184",
+    "name": "Casablanca",
+    "domain": "movie"
+   },
+   {
+    "id": "23E081CF-CEFB-4E12-8337-867F25F5D1FC",
+    "name": "Mughal-E-Azam",
+    "domain": "movie"
+   },
+   {
+    "id": "7F1163D3-D842-4121-AA13-68FA930E0F09",
+    "name": "Seven Samurai",
+    "domain": "movie"
+   },
+   {
+    "id": "59775A1E-5968-480C-94B2-47BE50CA3CD2",
+    "name": "Singin' in the Rain",
+    "domain": "movie"
+   },
+   {
+    "id": "78991296-9E4A-4559-996A-5C5B5DCB8374",
+    "name": "Louis Armstrong",
+    "domain": "artist"
+   }
+  ],
+  "response": {
+   "items": [
+    {
+     "id": "A5F2D98E-639A-498C-A4B5-8CDF4B017F23",
+     "name": "Billie Holiday",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Jazz",
+      "Vocal Jazz",
+      "Blues",
+      "Swing"
+     ],
+     "imageUrl": "https://images.qloo.com/i/A5F2D98E-639A-498C-A4B5-8CDF4B017F23-420x-auto.jpg",
+     "reasons": [
+      "Singin' in the Rain",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "FC0F8D26-BA80-4D83-8BBF-FC011DC8D241",
+     "name": "Frank Sinatra",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Easy Listening",
+      "Oldies",
+      "Vocal Jazz",
+      "Big Band"
+     ],
+     "imageUrl": "https://images.qloo.com/i/FC0F8D26-BA80-4D83-8BBF-FC011DC8D241-420x-auto.jpg",
+     "reasons": [
+      "Louis Armstrong",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "8004D878-CF71-4FA8-A5FB-872ED95D6695",
+     "name": "Ray Charles",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Gospel",
+      "Rhythm And Blues",
+      "R & B",
+      "Rock And Roll"
+     ],
+     "imageUrl": "https://images.qloo.com/i/8004D878-CF71-4FA8-A5FB-872ED95D6695-420x-auto.jpg",
+     "reasons": [
+      "Louis Armstrong",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "C9A0AD41-7EDF-4C3E-A816-D1E73A17605E",
+     "name": "Ella Fitzgerald",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Vocal Jazz",
+      "Blues",
+      "Swing",
+      "Pop Standards"
+     ],
+     "imageUrl": "https://images.qloo.com/i/C9A0AD41-7EDF-4C3E-A816-D1E73A17605E-420x-auto.jpg",
+     "reasons": [
+      "Louis Armstrong",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "3F144530-744A-421D-A425-5AF95DD55F4F",
+     "name": "Peggy Lee",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Swing",
+      "Jazz",
+      "Blues",
+      "Vocal Jazz"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3F144530-744A-421D-A425-5AF95DD55F4F-420x-auto.jpg",
+     "reasons": [
+      "Singin' in the Rain",
+      "Louis Armstrong"
+     ]
+    },
+    {
+     "id": "2984CF3F-4390-468A-A2D1-2229496E1643",
+     "name": "It's a Wonderful Life",
+     "domain": "movie",
+     "affinity": 0.94,
+     "tags": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Period drama"
+     ],
+     "year": 1946,
+     "imageUrl": "https://images.qloo.com/i/2984CF3F-4390-468A-A2D1-2229496E1643-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "C3904C8E-2D6B-4888-9EE5-29211F00B187",
+     "name": "To Kill a Mockingbird",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Crime",
+      "Literary adaptation",
+      "Legal drama",
+      "Drama"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/C3904C8E-2D6B-4888-9EE5-29211F00B187-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "F1DF6961-6C1D-4BC6-879A-647F7BE20EC8",
+     "name": "Citizen Kane",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Mystery",
+      "Nonlinear narrative",
+      "Period drama",
+      "Drama"
+     ],
+     "year": 1941,
+     "imageUrl": "https://images.qloo.com/i/F1DF6961-6C1D-4BC6-879A-647F7BE20EC8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "3AB1891A-53BE-493B-9899-09F98E9DB0B8",
+     "name": "Gone with the Wind",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "War",
+      "Romance",
+      "Civil war drama",
+      "Drama"
+     ],
+     "year": 1939,
+     "imageUrl": "https://images.qloo.com/i/3AB1891A-53BE-493B-9899-09F98E9DB0B8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "021DCEE0-B1A1-45B2-9B4C-A08D55E5E215",
+     "name": "Lawrence of Arabia",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Adventure",
+      "Period piece",
+      "War epic",
+      "Drama"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/021DCEE0-B1A1-45B2-9B4C-A08D55E5E215-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "DB070E23-0CC1-420B-B634-2673AA3F4E66",
+     "name": "Zorro",
+     "domain": "tv_show",
+     "affinity": 0.92,
+     "tags": [
+      "Period adventure",
+      "Swashbuckler",
+      "Western",
+      "Adventure"
+     ],
+     "year": 1957,
+     "imageUrl": "https://images.qloo.com/i/DB070E23-0CC1-420B-B634-2673AA3F4E66-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "5FD46A30-6F82-40CE-8DBA-DF86DF33F0B8",
+     "name": "Route 66",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Drama",
+      "Anthology like",
+      "Travelogue",
+      "Adventure"
+     ],
+     "year": 1960,
+     "imageUrl": "https://images.qloo.com/i/5FD46A30-6F82-40CE-8DBA-DF86DF33F0B8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Louis Armstrong"
+     ]
+    },
+    {
+     "id": "4E66F803-4C83-4F6C-9683-64D1B9081513",
+     "name": "BBC Sunday-Night Theatre",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Television play",
+      "Stage adaptation",
+      "Live television",
+      "Anthology"
+     ],
+     "year": 1950,
+     "imageUrl": "https://images.qloo.com/i/4E66F803-4C83-4F6C-9683-64D1B9081513-420x-auto.jpg",
+     "reasons": [
+      "Seven Samurai",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "46DC0CF9-2DCC-4910-BAA1-FFF5E359F6F8",
+     "name": "Combat!",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Period piece",
+      "Action",
+      "War",
+      "Ensemble"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/46DC0CF9-2DCC-4910-BAA1-FFF5E359F6F8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "40426B24-36FD-498A-B741-C0D0BC046D50",
+     "name": "Bewitched",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Domestic sitcom",
+      "Family sitcom",
+      "Comedy",
+      "Fantasy"
+     ],
+     "year": 1964,
+     "imageUrl": "https://images.qloo.com/i/40426B24-36FD-498A-B741-C0D0BC046D50-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    }
+   ],
+   "outings": [
+    {
+     "id": "CB8A7392-E5A2-4364-8285-3C5324F13264",
+     "name": "Big ben",
+     "domain": "place",
+     "affinity": 0.87,
+     "tags": [
+      "Tourist attraction",
+      "Place",
+      "Getting tickets in advance recommended"
+     ],
+     "imageUrl": "https://images.qloo.com/i/CB8A7392-E5A2-4364-8285-3C5324F13264-420x-auto.jpg",
+     "reasons": [
+      "Louis Armstrong",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "5F9C514E-AC88-4E31-8C3C-335BE0CF26A4",
+     "name": "covent Garden ,",
+     "domain": "place",
+     "affinity": 0.86,
+     "tags": [
+      "Place",
+      "Tourist attraction",
+      "Charming",
+      "Morning"
+     ],
+     "imageUrl": "https://images.qloo.com/i/5F9C514E-AC88-4E31-8C3C-335BE0CF26A4-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    }
+   ],
+   "plan": {
+    "title": "Grandpa Joe's Musical Memories",
+    "warmup": {
+     "text": "Welcome, Grandpa Joe. Let’s settle with a gentle breath and a smile as we think of favorite songs and voices from your past.",
+     "minutes": 4
+    },
+    "segments": [
+     {
+      "domain": "artist",
+      "title": "Music",
+      "intro": "Let’s travel back to the music that filled your days. Which of these singers brings a special memory?",
+      "minutes": 8,
+      "items": [
+       {
+        "id": "A5F2D98E-639A-498C-A4B5-8CDF4B017F23",
+        "prompt": "Do you recall a night when Billie Holiday’s voice made you feel calm?",
+        "sensoryCue": "hum softly along"
+       },
+       {
+        "id": "FC0F8D26-BA80-4D83-8BBF-FC011DC8D241",
+        "prompt": "What does Frank Sinatra’s smooth singing remind you of?",
+        "sensoryCue": "tap a gentle rhythm on the table"
+       },
+       {
+        "id": "C9A0AD41-7EDF-4C3E-A816-D1E73A17605E",
+        "prompt": "Ella Fitzgerald’s swing—does it bring a happy dance memory?",
+        "sensoryCue": "sway your shoulders lightly"
+       },
+       {
+        "id": "8004D878-CF71-4FA8-A5FB-872ED95D6695",
+        "prompt": "Does this sound familiar? Where did you first hear it?",
+        "sensoryCue": "Hum along if it feels natural"
+       },
+       {
+        "id": "3F144530-744A-421D-A425-5AF95DD55F4F",
+        "prompt": "Did anyone at home sing this one?",
+        "sensoryCue": "Tap along gently to the rhythm"
+       }
+      ]
+     },
+     {
+      "domain": "movie",
+      "title": "Film",
+      "intro": "Look at a poster or a still together and let the stories come back at their own pace.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "2984CF3F-4390-468A-A2D1-2229496E1643",
+        "prompt": "Do you remember seeing this one? Who came along?",
+        "sensoryCue": "Look at the poster or a still together"
+       },
+       {
+        "id": "C3904C8E-2D6B-4888-9EE5-29211F00B187",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       },
+       {
+        "id": "F1DF6961-6C1D-4BC6-879A-647F7BE20EC8",
+        "prompt": "Where did you watch films like this?",
+        "sensoryCue": "Ask who they watched it with"
+       },
+       {
+        "id": "3AB1891A-53BE-493B-9899-09F98E9DB0B8",
+        "prompt": "Do you remember seeing this one? Who came along?",
+        "sensoryCue": "Look at the poster or a still together"
+       },
+       {
+        "id": "021DCEE0-B1A1-45B2-9B4C-A08D55E5E215",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       }
+      ]
+     },
+     {
+      "domain": "tv_show",
+      "title": "Television",
+      "intro": "Talk about the shows that were part of the evening routine.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "DB070E23-0CC1-420B-B634-2673AA3F4E66",
+        "prompt": "Did you watch this one at home? Who sat beside you?",
+        "sensoryCue": "Look at a photo of the cast together"
+       },
+       {
+        "id": "5FD46A30-6F82-40CE-8DBA-DF86DF33F0B8",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       },
+       {
+        "id": "4E66F803-4C83-4F6C-9683-64D1B9081513",
+        "prompt": "What time of day did this come on?",
+        "sensoryCue": "Talk about where the TV sat in the room"
+       },
+       {
+        "id": "46DC0CF9-2DCC-4910-BAA1-FFF5E359F6F8",
+        "prompt": "Did you watch this one at home? Who sat beside you?",
+        "sensoryCue": "Look at a photo of the cast together"
+       },
+       {
+        "id": "40426B24-36FD-498A-B741-C0D0BC046D50",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       }
+      ]
+     }
+    ],
+    "winddown": {
+     "text": "Thank you for sharing. Let’s close with a quiet moment, feeling the warmth of those melodies linger.",
+     "minutes": 4
+    },
+    "outing": {
+     "id": "CB8A7392-E5A2-4364-8285-3C5324F13264",
+     "prompt": "Would you like to imagine a gentle walk to hear Big Ben’s chimes together?"
+    }
+   },
+   "planSource": "llm",
+   "source": {
+    "mode": "live"
+   },
+   "notices": [],
+   "yearFilter": {
+    "active": true,
+    "note": "Films and TV were limited to 1938–1965. Music is not filtered by year."
+   }
+  },
+  "compare": {
+   "rows": [
+    {
+     "name": "Ella Fitzgerald",
+     "domain": "artist",
+     "why": "Her smooth, warm voice and timeless jazz standards complement Louis Armstrong's era and evoke nostalgic feelings.",
+     "status": "in-shown"
+    },
+    {
+     "name": "Frank Sinatra",
+     "domain": "artist",
+     "why": "His classic crooner style and iconic songs from the 40s-60s match the golden‑age vibe of Grandpa Joe's favorites.",
+     "status": "in-shown"
+    },
+    {
+     "name": "Nat King Cole",
+     "domain": "artist",
+     "why": "His gentle piano‑driven ballads provide a soothing backdrop reminiscent of mid‑century romance films.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "Bing Crosby",
+     "domain": "artist",
+     "why": "His relaxed baritone and holiday classics echo the sentimental tone of classic movies like Casablanca.",
+     "status": "not-found"
+    },
+    {
+     "name": "Duke Ellington",
+     "domain": "artist",
+     "why": "His sophisticated big‑band jazz offers rich orchestration that pairs well with the epic storytelling of films like Mughal‑E‑Azam.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "Gone with the Wind",
+     "domain": "movie",
+     "why": "An epic romance set in a historic era, offering the sweeping drama and classic cinematography that fans of Casablanca and Mughal‑E‑Azam appreciate.",
+     "status": "in-shown"
+    },
+    {
+     "name": "The Bridge on the River Kwai",
+     "domain": "movie",
+     "why": "A World War II drama with strong moral themes and memorable music, resonating with the timeless storytelling of Seven Samurai.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "An American in Paris",
+     "domain": "movie",
+     "why": "A vibrant musical with stunning dance sequences, echoing the joyous spirit of Singin' in the Rain.",
+     "status": "not-found"
+    },
+    {
+     "name": "The African Queen",
+     "domain": "movie",
+     "why": "A classic adventure romance starring Humphrey Bogart, providing the same charismatic lead as Casablanca.",
+     "status": "not-found"
+    },
+    {
+     "name": "The Magnificent Seven",
+     "domain": "movie",
+     "status": "not-found"
+    },
+    {
+     "name": "The Twilight Zone",
+     "domain": "tv_show",
+     "why": "Anthology series with classic storytelling and moral lessons, reminiscent of the timeless narratives in Grandpa Joe's favorite films.",
+     "status": "not-found"
+    },
+    {
+     "name": "M*A*S*H",
+     "domain": "tv_show",
+     "why": "Combines humor, heart, and historical setting, offering gentle reminiscence through relatable characters and period music.",
+     "status": "not-found"
+    },
+    {
+     "name": "I Love Lucy",
+     "domain": "tv_show",
+     "why": "Iconic 1950s sitcom with lighthearted comedy and classic TV production values that match the era of his favorite movies.",
+     "status": "not-found"
+    },
+    {
+     "name": "The Andy Griffith Show",
+     "domain": "tv_show",
+     "why": "Warm, small‑town Americana with gentle humor, evoking the comforting nostalgia of mid‑century entertainment.",
+     "status": "not-found"
+    },
+    {
+     "name": "Columbo",
+     "domain": "tv_show",
+     "why": "A classic detective series with sophisticated plots and a charismatic lead, providing engaging yet relaxed viewing for an older audience.",
+     "status": "not-found"
+    }
+   ],
+   "llmSource": "llm",
+   "stats": {
+    "llmTotal": 15,
+    "inQlooResults": 6,
+    "overlapShown": 3,
+    "notFound": 9,
+    "qlooShown": 15,
+    "qlooUnique": 12,
+    "qlooWithReasons": 15
+   },
+   "qlooOnly": [
+    {
+     "id": "A5F2D98E-639A-498C-A4B5-8CDF4B017F23",
+     "name": "Billie Holiday",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Jazz",
+      "Vocal Jazz",
+      "Blues",
+      "Swing"
+     ],
+     "imageUrl": "https://images.qloo.com/i/A5F2D98E-639A-498C-A4B5-8CDF4B017F23-420x-auto.jpg",
+     "reasons": [
+      "Singin' in the Rain",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "8004D878-CF71-4FA8-A5FB-872ED95D6695",
+     "name": "Ray Charles",
+     "domain": "artist",
+     "affinity": 0.94,
+     "tags": [
+      "Gospel",
+      "Rhythm And Blues",
+      "R & B",
+      "Rock And Roll"
+     ],
+     "imageUrl": "https://images.qloo.com/i/8004D878-CF71-4FA8-A5FB-872ED95D6695-420x-auto.jpg",
+     "reasons": [
+      "Louis Armstrong",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "3F144530-744A-421D-A425-5AF95DD55F4F",
+     "name": "Peggy Lee",
+     "domain": "artist",
+     "affinity": 0.93,
+     "tags": [
+      "Swing",
+      "Jazz",
+      "Blues",
+      "Vocal Jazz"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3F144530-744A-421D-A425-5AF95DD55F4F-420x-auto.jpg",
+     "reasons": [
+      "Singin' in the Rain",
+      "Louis Armstrong"
+     ]
+    },
+    {
+     "id": "2984CF3F-4390-468A-A2D1-2229496E1643",
+     "name": "It's a Wonderful Life",
+     "domain": "movie",
+     "affinity": 0.94,
+     "tags": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Period drama"
+     ],
+     "year": 1946,
+     "imageUrl": "https://images.qloo.com/i/2984CF3F-4390-468A-A2D1-2229496E1643-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "C3904C8E-2D6B-4888-9EE5-29211F00B187",
+     "name": "To Kill a Mockingbird",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Crime",
+      "Literary adaptation",
+      "Legal drama",
+      "Drama"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/C3904C8E-2D6B-4888-9EE5-29211F00B187-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "F1DF6961-6C1D-4BC6-879A-647F7BE20EC8",
+     "name": "Citizen Kane",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Mystery",
+      "Nonlinear narrative",
+      "Period drama",
+      "Drama"
+     ],
+     "year": 1941,
+     "imageUrl": "https://images.qloo.com/i/F1DF6961-6C1D-4BC6-879A-647F7BE20EC8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    },
+    {
+     "id": "021DCEE0-B1A1-45B2-9B4C-A08D55E5E215",
+     "name": "Lawrence of Arabia",
+     "domain": "movie",
+     "affinity": 0.93,
+     "tags": [
+      "Adventure",
+      "Period piece",
+      "War epic",
+      "Drama"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/021DCEE0-B1A1-45B2-9B4C-A08D55E5E215-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "DB070E23-0CC1-420B-B634-2673AA3F4E66",
+     "name": "Zorro",
+     "domain": "tv_show",
+     "affinity": 0.92,
+     "tags": [
+      "Period adventure",
+      "Swashbuckler",
+      "Western",
+      "Adventure"
+     ],
+     "year": 1957,
+     "imageUrl": "https://images.qloo.com/i/DB070E23-0CC1-420B-B634-2673AA3F4E66-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "5FD46A30-6F82-40CE-8DBA-DF86DF33F0B8",
+     "name": "Route 66",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Drama",
+      "Anthology like",
+      "Travelogue",
+      "Adventure"
+     ],
+     "year": 1960,
+     "imageUrl": "https://images.qloo.com/i/5FD46A30-6F82-40CE-8DBA-DF86DF33F0B8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Louis Armstrong"
+     ]
+    },
+    {
+     "id": "4E66F803-4C83-4F6C-9683-64D1B9081513",
+     "name": "BBC Sunday-Night Theatre",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Television play",
+      "Stage adaptation",
+      "Live television",
+      "Anthology"
+     ],
+     "year": 1950,
+     "imageUrl": "https://images.qloo.com/i/4E66F803-4C83-4F6C-9683-64D1B9081513-420x-auto.jpg",
+     "reasons": [
+      "Seven Samurai",
+      "Casablanca"
+     ]
+    },
+    {
+     "id": "46DC0CF9-2DCC-4910-BAA1-FFF5E359F6F8",
+     "name": "Combat!",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Period piece",
+      "Action",
+      "War",
+      "Ensemble"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/46DC0CF9-2DCC-4910-BAA1-FFF5E359F6F8-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Seven Samurai"
+     ]
+    },
+    {
+     "id": "40426B24-36FD-498A-B741-C0D0BC046D50",
+     "name": "Bewitched",
+     "domain": "tv_show",
+     "affinity": 0.91,
+     "tags": [
+      "Domestic sitcom",
+      "Family sitcom",
+      "Comedy",
+      "Fantasy"
+     ],
+     "year": 1964,
+     "imageUrl": "https://images.qloo.com/i/40426B24-36FD-498A-B741-C0D0BC046D50-420x-auto.jpg",
+     "reasons": [
+      "Casablanca",
+      "Singin' in the Rain"
+     ]
+    }
+   ],
+   "verdict": "different",
+   "summary": "Of 15 titles the AI suggested on its own, 6 appear in Qloo's results for these favourites (3 of them among the picks shown). 9 were not found in Qloo's results for these seeds. Qloo's picks include 12 titles the AI did not mention. 15 of Qloo's picks carry a \"because of\" reason; the AI-only list carries none.",
+   "source": {
+    "mode": "live"
+   }
+  },
+  "idSpace": "qloo",
+  "generatedAt": "2026-10-08T19:07:03.209Z"
+ },
+ {
+  "id": "rose-tv",
+  "title": "Aunty Rose, TV and variety",
+  "blurb": "Sitcoms, variety hours and the evening dramas the whole family watched together.",
+  "nickname": "Aunty Rose",
+  "city": "London",
+  "bornDecade": 1940,
+  "seeds": [
+   {
+    "id": "65E28499-5D62-4D74-A0B8-0C60DD6C2358",
+    "name": "I Love Lucy",
+    "domain": "tv_show"
+   },
+   {
+    "id": "1CE89C0D-DB38-4304-80E9-D99BBD6A8B6A",
+    "name": "The Ed Sullivan Show",
+    "domain": "tv_show"
+   },
+   {
+    "id": "61AA246F-75B0-4C25-8DB2-EC0FF4EB0655",
+    "name": "Dhoop Kinare",
+    "domain": "tv_show"
+   },
+   {
+    "id": "274215A0-FCAF-4084-8342-D454B26C4438",
+    "name": "Alif Noon",
+    "domain": "tv_show"
+   },
+   {
+    "id": "C0A5886B-EDC4-4930-A175-5CB60C112025",
+    "name": "Doris Day",
+    "domain": "artist"
+   }
+  ],
+  "response": {
+   "items": [
+    {
+     "id": "3FF91263-F4A7-4E3F-9BDC-070CC4DA65D5",
+     "name": "Johnny Mathis",
+     "domain": "artist",
+     "affinity": 0.96,
+     "tags": [
+      "Pop",
+      "Vocal",
+      "Lounge",
+      "Adult Contemporary"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3FF91263-F4A7-4E3F-9BDC-070CC4DA65D5-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "3ADB7376-2FA5-49C4-84FD-9704DD38AB6C",
+     "name": "Bobby Darin",
+     "domain": "artist",
+     "affinity": 0.96,
+     "tags": [
+      "Swing",
+      "Folk",
+      "Rock And Roll",
+      "Big Band"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3ADB7376-2FA5-49C4-84FD-9704DD38AB6C-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "61B17DF2-0DE6-4E2A-AF25-FE175ECB8B92",
+     "name": "Andy Williams",
+     "domain": "artist",
+     "affinity": 0.95,
+     "tags": [
+      "Adult Contemporary",
+      "Vocal",
+      "Jazz",
+      "Traditional Pop"
+     ],
+     "imageUrl": "https://images.qloo.com/i/61B17DF2-0DE6-4E2A-AF25-FE175ECB8B92-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "F3BF838E-C78F-4282-A660-CE022F4A4BCB",
+     "name": "Dean Martin",
+     "domain": "artist",
+     "affinity": 0.95,
+     "tags": [
+      "Jazz",
+      "Swing",
+      "Lounge",
+      "Easy Listening"
+     ],
+     "imageUrl": "https://images.qloo.com/i/F3BF838E-C78F-4282-A660-CE022F4A4BCB-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "E0CD9B0B-75BB-4DAE-BCB7-79AB5DE42A0D",
+     "name": "Nat King Cole",
+     "domain": "artist",
+     "affinity": 0.95,
+     "tags": [
+      "Blues",
+      "Soul",
+      "Jazz",
+      "Swing"
+     ],
+     "imageUrl": "https://images.qloo.com/i/E0CD9B0B-75BB-4DAE-BCB7-79AB5DE42A0D-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "A8B90C6C-4DFD-4A7C-B3A3-A66AB39840F3",
+     "name": "Gypsy",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Musical",
+      "Showbiz musical",
+      "Backstage musical",
+      "Comedy"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/A8B90C6C-4DFD-4A7C-B3A3-A66AB39840F3-420x-auto.jpg",
+     "reasons": [
+      "The Ed Sullivan Show",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "C71F3E0E-24EB-4AD6-BBC5-2E29E5159D87",
+     "name": "The Way We Were",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Drama",
+      "Romance",
+      "Political drama",
+      "Historical drama"
+     ],
+     "year": 1973,
+     "imageUrl": "https://images.qloo.com/i/C71F3E0E-24EB-4AD6-BBC5-2E29E5159D87-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "1FDF9A31-78FD-4D19-A040-F2DF18A1D294",
+     "name": "Funny Girl",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Drama",
+      "Romance",
+      "Showbiz musical",
+      "Musical"
+     ],
+     "year": 1968,
+     "imageUrl": "https://images.qloo.com/i/1FDF9A31-78FD-4D19-A040-F2DF18A1D294-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "0E274BF2-2837-4634-AB2F-C9EEF414EDDC",
+     "name": "The Prime of Miss Jean Brodie",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Comedy",
+      "Drama",
+      "Character study",
+      "Schoolroom drama"
+     ],
+     "year": 1969,
+     "imageUrl": "https://images.qloo.com/i/0E274BF2-2837-4634-AB2F-C9EEF414EDDC-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "ADC62A32-3626-4CFA-BC26-3550903D49A1",
+     "name": "The Unsinkable Molly Brown",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Western",
+      "Musical",
+      "Period piece",
+      "Broadway adaptation"
+     ],
+     "year": 1964,
+     "imageUrl": "https://images.qloo.com/i/ADC62A32-3626-4CFA-BC26-3550903D49A1-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "5529380B-6DB8-4F22-A0CE-1051D32F555C",
+     "name": "The Carol Burnett Show",
+     "domain": "tv_show",
+     "affinity": 0.97,
+     "tags": [
+      "Sketch show",
+      "Family",
+      "Television variety",
+      "Comedy"
+     ],
+     "year": 1967,
+     "imageUrl": "https://images.qloo.com/i/5529380B-6DB8-4F22-A0CE-1051D32F555C-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "B4A11377-BAD6-4860-B56C-EB1BCF1D3E16",
+     "name": "The Lucy Show",
+     "domain": "tv_show",
+     "affinity": 0.97,
+     "tags": [
+      "Sitcom",
+      "Domestic comedy",
+      "Comedy",
+      "Workplace comedy"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/B4A11377-BAD6-4860-B56C-EB1BCF1D3E16-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "27907A97-B2B3-4C3B-9EFC-D58585B4D423",
+     "name": "The Lucy-Desi Comedy Hour",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Comedy",
+      "Sitcom",
+      "Family",
+      "Variety"
+     ],
+     "year": 1957,
+     "imageUrl": "https://images.qloo.com/i/27907A97-B2B3-4C3B-9EFC-D58585B4D423-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "9BF51F30-46F7-481F-B007-46C206188E00",
+     "name": "The Brady Bunch",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Sitcom",
+      "Comedy",
+      "Domestic comedy",
+      "Family sitcom"
+     ],
+     "year": 1969,
+     "imageUrl": "https://images.qloo.com/i/9BF51F30-46F7-481F-B007-46C206188E00-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "49F4C885-272C-417F-9AD6-44A46DC4B269",
+     "name": "Family Affair",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Comedy",
+      "Family",
+      "Domestic comedy",
+      "Sitcom"
+     ],
+     "year": 1966,
+     "imageUrl": "https://images.qloo.com/i/49F4C885-272C-417F-9AD6-44A46DC4B269-420x-auto.jpg",
+     "reasons": [
+      "The Ed Sullivan Show",
+      "I Love Lucy"
+     ]
+    }
+   ],
+   "outings": [
+    {
+     "id": "A0061B51-DBBF-49F8-B6C1-16E5A9BA902A",
+     "name": "Electoral Commission",
+     "domain": "place",
+     "affinity": 0.84,
+     "tags": [
+      "Place",
+      "Tourist attraction",
+      "Government office",
+      "Office aesthetic"
+     ],
+     "imageUrl": "https://images.qloo.com/i/A0061B51-DBBF-49F8-B6C1-16E5A9BA902A-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "0F7CD684-5F6A-4528-B450-79DD1426EAF6",
+     "name": "See You Soon",
+     "domain": "place",
+     "affinity": 0.84,
+     "tags": [
+      "Shopping",
+      "Do it yourself shop",
+      "Place",
+      "Safe"
+     ],
+     "imageUrl": "https://images.qloo.com/i/0F7CD684-5F6A-4528-B450-79DD1426EAF6-420x-auto.jpg",
+     "reasons": [
+      "The Ed Sullivan Show",
+      "I Love Lucy"
+     ]
+    }
+   ],
+   "plan": {
+    "title": "Aunty Rose's Musical Memories",
+    "warmup": {
+     "text": "Welcome, Aunty Rose. Let’s settle in with a gentle breath and a smile, ready to travel back to favorite tunes.",
+     "minutes": 4
+    },
+    "segments": [
+     {
+      "domain": "artist",
+      "title": "Music",
+      "intro": "Let’s recall the voices that filled your evenings with joy.",
+      "minutes": 8,
+      "items": [
+       {
+        "id": "3FF91263-F4A7-4E3F-9BDC-070CC4DA65D5",
+        "prompt": "Do you remember hearing Johnny Mathis sing on the radio?",
+        "sensoryCue": "hum along softly"
+       },
+       {
+        "id": "F3BF838E-C78F-4282-A660-CE022F4A4BCB",
+        "prompt": "What feelings does Dean Martin’s smooth croon bring back?",
+        "sensoryCue": "tap a gentle rhythm on the table"
+       },
+       {
+        "id": "E0CD9B0B-75BB-4DAE-BCB7-79AB5DE42A0D",
+        "prompt": "Can you picture Nat King Cole at a cozy dinner?",
+        "sensoryCue": "imagine the scent of fresh coffee"
+       },
+       {
+        "id": "3ADB7376-2FA5-49C4-84FD-9704DD38AB6C",
+        "prompt": "Does this sound familiar? Where did you first hear it?",
+        "sensoryCue": "Hum along if it feels natural"
+       },
+       {
+        "id": "61B17DF2-0DE6-4E2A-AF25-FE175ECB8B92",
+        "prompt": "Did anyone at home sing this one?",
+        "sensoryCue": "Tap along gently to the rhythm"
+       }
+      ]
+     },
+     {
+      "domain": "movie",
+      "title": "Film",
+      "intro": "Look at a poster or a still together and let the stories come back at their own pace.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "A8B90C6C-4DFD-4A7C-B3A3-A66AB39840F3",
+        "prompt": "Do you remember seeing this one? Who came along?",
+        "sensoryCue": "Look at the poster or a still together"
+       },
+       {
+        "id": "C71F3E0E-24EB-4AD6-BBC5-2E29E5159D87",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       },
+       {
+        "id": "1FDF9A31-78FD-4D19-A040-F2DF18A1D294",
+        "prompt": "Where did you watch films like this?",
+        "sensoryCue": "Ask who they watched it with"
+       },
+       {
+        "id": "0E274BF2-2837-4634-AB2F-C9EEF414EDDC",
+        "prompt": "Do you remember seeing this one? Who came along?",
+        "sensoryCue": "Look at the poster or a still together"
+       },
+       {
+        "id": "ADC62A32-3626-4CFA-BC26-3550903D49A1",
+        "prompt": "Was there a scene you liked best?",
+        "sensoryCue": "Describe a favourite scene in your own words"
+       }
+      ]
+     },
+     {
+      "domain": "tv_show",
+      "title": "Television",
+      "intro": "Talk about the shows that were part of the evening routine.",
+      "minutes": 7,
+      "items": [
+       {
+        "id": "5529380B-6DB8-4F22-A0CE-1051D32F555C",
+        "prompt": "Did you watch this one at home? Who sat beside you?",
+        "sensoryCue": "Look at a photo of the cast together"
+       },
+       {
+        "id": "B4A11377-BAD6-4860-B56C-EB1BCF1D3E16",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       },
+       {
+        "id": "27907A97-B2B3-4C3B-9EFC-D58585B4D423",
+        "prompt": "What time of day did this come on?",
+        "sensoryCue": "Talk about where the TV sat in the room"
+       },
+       {
+        "id": "9BF51F30-46F7-481F-B007-46C206188E00",
+        "prompt": "Did you watch this one at home? Who sat beside you?",
+        "sensoryCue": "Look at a photo of the cast together"
+       },
+       {
+        "id": "49F4C885-272C-417F-9AD6-44A46DC4B269",
+        "prompt": "Was there a character you enjoyed?",
+        "sensoryCue": "Hum the theme tune if you remember it"
+       }
+      ]
+     }
+    ],
+    "winddown": {
+     "text": "Thank you for sharing these memories. Let’s take a slow breath together and keep these sweet moments close to heart.",
+     "minutes": 4
+    },
+    "outing": {
+     "id": "A0061B51-DBBF-49F8-B6C1-16E5A9BA902A",
+     "prompt": "If you’d like, we could visit the Electoral Commission together soon."
+    }
+   },
+   "planSource": "llm",
+   "source": {
+    "mode": "live"
+   },
+   "notices": [],
+   "yearFilter": {
+    "active": true,
+    "note": "Films and TV were limited to 1948–1975. Music is not filtered by year."
+   }
+  },
+  "compare": {
+   "rows": [
+    {
+     "name": "Frank Sinatra",
+     "domain": "artist",
+     "why": "His smooth, timeless vocals and classic standards match Doris Day's era and appeal to nostalgic listeners.",
+     "status": "not-found"
+    },
+    {
+     "name": "Ella Fitzgerald",
+     "domain": "artist",
+     "why": "Her warm, melodic jazz voice offers a gentle, uplifting listening experience reminiscent of mid‑20th‑century popular music.",
+     "status": "not-found"
+    },
+    {
+     "name": "Bobby Darin",
+     "domain": "artist",
+     "why": "His upbeat pop‑jazz style complements the cheerful vibe of Doris Day’s hits and suits a gentle reminiscence.",
+     "status": "in-shown"
+    },
+    {
+     "name": "Perry Como",
+     "domain": "artist",
+     "why": "His relaxed crooning and comforting tone echo the easy‑going feel of classic TV variety shows like The Ed Sullivan Show.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "Nat King Cole",
+     "domain": "artist",
+     "why": "His smooth baritone and romantic ballads provide a soothing backdrop that aligns with the nostalgic mood of 1950s‑60s entertainment.",
+     "status": "in-shown"
+    },
+    {
+     "name": "Singin' in the Rain (1952)",
+     "domain": "movie",
+     "why": "A joyful musical classic that captures the golden age of Hollywood, resonating with the era of Doris Day and early TV.",
+     "status": "not-found"
+    },
+    {
+     "name": "Breakfast at Tiffany's (1961)",
+     "domain": "movie",
+     "why": "Elegant romance and iconic performances evoke the sophisticated charm of the 1950s‑60s entertainment landscape.",
+     "status": "not-found"
+    },
+    {
+     "name": "The Apartment (1960)",
+     "domain": "movie",
+     "why": "A gentle comedy‑drama with warm characters, reflecting the sentimental storytelling found in classic TV shows.",
+     "status": "not-found"
+    },
+    {
+     "name": "My Fair Lady (1964)",
+     "domain": "movie",
+     "why": "Lavish musical storytelling and memorable songs provide a nostalgic, feel‑good experience.",
+     "status": "not-found"
+    },
+    {
+     "name": "To Kill a Mockingbird (1962)",
+     "domain": "movie",
+     "why": "A timeless, heart‑warming film with strong moral themes that appeals to an older audience’s love of classic cinema.",
+     "status": "not-found"
+    },
+    {
+     "name": "The Andy Griffith Show",
+     "domain": "tv_show",
+     "why": "Its wholesome humor and small‑town charm echo the gentle comedy of I Love Lucy and Alif Noon.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "The Twilight Zone (original)",
+     "domain": "tv_show",
+     "why": "Thought‑provoking yet accessible stories from the same era, offering nostalgic intrigue without being intense.",
+     "status": "not-found"
+    },
+    {
+     "name": "M*A*S*H (original)",
+     "domain": "tv_show",
+     "why": "A blend of comedy and heartfelt moments that aligns with the gentle reminiscence tone.",
+     "status": "not-found"
+    },
+    {
+     "name": "The Dick Van Dyke Show",
+     "domain": "tv_show",
+     "why": "Classic sitcom style and witty writing similar to I Love Lucy, perfect for lighthearted nostalgia.",
+     "status": "in-qloo"
+    },
+    {
+     "name": "The Golden Girls",
+     "domain": "tv_show",
+     "why": "Later‑era but still a warm, character‑driven comedy that resonates with viewers who enjoy ensemble humor.",
+     "status": "not-found"
+    }
+   ],
+   "llmSource": "llm",
+   "stats": {
+    "llmTotal": 15,
+    "inQlooResults": 5,
+    "overlapShown": 2,
+    "notFound": 10,
+    "qlooShown": 15,
+    "qlooUnique": 13,
+    "qlooWithReasons": 15
+   },
+   "qlooOnly": [
+    {
+     "id": "3FF91263-F4A7-4E3F-9BDC-070CC4DA65D5",
+     "name": "Johnny Mathis",
+     "domain": "artist",
+     "affinity": 0.96,
+     "tags": [
+      "Pop",
+      "Vocal",
+      "Lounge",
+      "Adult Contemporary"
+     ],
+     "imageUrl": "https://images.qloo.com/i/3FF91263-F4A7-4E3F-9BDC-070CC4DA65D5-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "61B17DF2-0DE6-4E2A-AF25-FE175ECB8B92",
+     "name": "Andy Williams",
+     "domain": "artist",
+     "affinity": 0.95,
+     "tags": [
+      "Adult Contemporary",
+      "Vocal",
+      "Jazz",
+      "Traditional Pop"
+     ],
+     "imageUrl": "https://images.qloo.com/i/61B17DF2-0DE6-4E2A-AF25-FE175ECB8B92-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "F3BF838E-C78F-4282-A660-CE022F4A4BCB",
+     "name": "Dean Martin",
+     "domain": "artist",
+     "affinity": 0.95,
+     "tags": [
+      "Jazz",
+      "Swing",
+      "Lounge",
+      "Easy Listening"
+     ],
+     "imageUrl": "https://images.qloo.com/i/F3BF838E-C78F-4282-A660-CE022F4A4BCB-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "A8B90C6C-4DFD-4A7C-B3A3-A66AB39840F3",
+     "name": "Gypsy",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Musical",
+      "Showbiz musical",
+      "Backstage musical",
+      "Comedy"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/A8B90C6C-4DFD-4A7C-B3A3-A66AB39840F3-420x-auto.jpg",
+     "reasons": [
+      "The Ed Sullivan Show",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "C71F3E0E-24EB-4AD6-BBC5-2E29E5159D87",
+     "name": "The Way We Were",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Drama",
+      "Romance",
+      "Political drama",
+      "Historical drama"
+     ],
+     "year": 1973,
+     "imageUrl": "https://images.qloo.com/i/C71F3E0E-24EB-4AD6-BBC5-2E29E5159D87-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "1FDF9A31-78FD-4D19-A040-F2DF18A1D294",
+     "name": "Funny Girl",
+     "domain": "movie",
+     "affinity": 0.86,
+     "tags": [
+      "Drama",
+      "Romance",
+      "Showbiz musical",
+      "Musical"
+     ],
+     "year": 1968,
+     "imageUrl": "https://images.qloo.com/i/1FDF9A31-78FD-4D19-A040-F2DF18A1D294-420x-auto.jpg",
+     "reasons": [
+      "Doris Day",
+      "I Love Lucy"
+     ]
+    },
+    {
+     "id": "0E274BF2-2837-4634-AB2F-C9EEF414EDDC",
+     "name": "The Prime of Miss Jean Brodie",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Comedy",
+      "Drama",
+      "Character study",
+      "Schoolroom drama"
+     ],
+     "year": 1969,
+     "imageUrl": "https://images.qloo.com/i/0E274BF2-2837-4634-AB2F-C9EEF414EDDC-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "Doris Day"
+     ]
+    },
+    {
+     "id": "ADC62A32-3626-4CFA-BC26-3550903D49A1",
+     "name": "The Unsinkable Molly Brown",
+     "domain": "movie",
+     "affinity": 0.85,
+     "tags": [
+      "Western",
+      "Musical",
+      "Period piece",
+      "Broadway adaptation"
+     ],
+     "year": 1964,
+     "imageUrl": "https://images.qloo.com/i/ADC62A32-3626-4CFA-BC26-3550903D49A1-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "5529380B-6DB8-4F22-A0CE-1051D32F555C",
+     "name": "The Carol Burnett Show",
+     "domain": "tv_show",
+     "affinity": 0.97,
+     "tags": [
+      "Sketch show",
+      "Family",
+      "Television variety",
+      "Comedy"
+     ],
+     "year": 1967,
+     "imageUrl": "https://images.qloo.com/i/5529380B-6DB8-4F22-A0CE-1051D32F555C-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "B4A11377-BAD6-4860-B56C-EB1BCF1D3E16",
+     "name": "The Lucy Show",
+     "domain": "tv_show",
+     "affinity": 0.97,
+     "tags": [
+      "Sitcom",
+      "Domestic comedy",
+      "Comedy",
+      "Workplace comedy"
+     ],
+     "year": 1962,
+     "imageUrl": "https://images.qloo.com/i/B4A11377-BAD6-4860-B56C-EB1BCF1D3E16-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "27907A97-B2B3-4C3B-9EFC-D58585B4D423",
+     "name": "The Lucy-Desi Comedy Hour",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Comedy",
+      "Sitcom",
+      "Family",
+      "Variety"
+     ],
+     "year": 1957,
+     "imageUrl": "https://images.qloo.com/i/27907A97-B2B3-4C3B-9EFC-D58585B4D423-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "9BF51F30-46F7-481F-B007-46C206188E00",
+     "name": "The Brady Bunch",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Sitcom",
+      "Comedy",
+      "Domestic comedy",
+      "Family sitcom"
+     ],
+     "year": 1969,
+     "imageUrl": "https://images.qloo.com/i/9BF51F30-46F7-481F-B007-46C206188E00-420x-auto.jpg",
+     "reasons": [
+      "I Love Lucy",
+      "The Ed Sullivan Show"
+     ]
+    },
+    {
+     "id": "49F4C885-272C-417F-9AD6-44A46DC4B269",
+     "name": "Family Affair",
+     "domain": "tv_show",
+     "affinity": 0.96,
+     "tags": [
+      "Comedy",
+      "Family",
+      "Domestic comedy",
+      "Sitcom"
+     ],
+     "year": 1966,
+     "imageUrl": "https://images.qloo.com/i/49F4C885-272C-417F-9AD6-44A46DC4B269-420x-auto.jpg",
+     "reasons": [
+      "The Ed Sullivan Show",
+      "I Love Lucy"
+     ]
+    }
+   ],
+   "verdict": "different",
+   "summary": "Of 15 titles the AI suggested on its own, 5 appear in Qloo's results for these favourites (2 of them among the picks shown). 10 were not found in Qloo's results for these seeds. Qloo's picks include 13 titles the AI did not mention. 15 of Qloo's picks carry a \"because of\" reason; the AI-only list carries none.",
+   "source": {
+    "mode": "live"
+   }
+  },
+  "idSpace": "qloo",
+  "generatedAt": "2026-10-08T19:07:11.776Z"
+ }
+]
